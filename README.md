@@ -8,7 +8,7 @@ It consists of an arcade game with a theme inspired by the lemmings. The main go
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Game Rules](#game-rules)
 - [License](#license)
 - [Contact](#contact)
 
